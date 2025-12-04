@@ -1,4 +1,4 @@
-# HACKER-STYLE GITHUB README — Rituraj Sambherao
+# Rituraj Sambherao
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
