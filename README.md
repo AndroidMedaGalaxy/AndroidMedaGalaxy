@@ -18,7 +18,8 @@
 > androidmeda@root:~$ whoami
 Experienced Android Engineer (10+ years)
 Kotlin addict | Jetpack Compose fanatic | CI/CD automation enjoyer
-Pays bills by writing clean code. Breaks things for fun. 
+Pays bills by writing clean code. Breaks things for fun.
+Avid motorcyclist, very serious about motorcycling and Motorsports. 
 
 > androidmeda@root:~$ location
 Dublin, Ireland
