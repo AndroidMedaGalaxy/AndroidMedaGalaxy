@@ -3,7 +3,7 @@
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  Rituraj Sambherao                                           │
-│  Senior Android Engineer | Kotlin | Jetpack Compose          │
+│  Lead Android Engineer | Kotlin | Jetpack Compose          │
 │  Dublin, Ireland                                             │
 └──────────────────────────────────────────────────────────────┘
 
